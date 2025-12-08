@@ -15,7 +15,8 @@ window.addEventListener("load", () => {
   };
 
   container.appendChild(player);
-  player.load("assets/");
+  player.load("assets/dra_spl_spr_allstarskatepark.swf");
 });
+
 
 
