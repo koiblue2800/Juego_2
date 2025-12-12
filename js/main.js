@@ -15,8 +15,9 @@ window.addEventListener("load", () => {
   };
 
   container.appendChild(player);
-  player.load("assets/doom-1.swf");
+  player.load("assets/470460_DoomGame.swf");
 });
+
 
 
 
