@@ -15,8 +15,9 @@ window.addEventListener("load", () => {
   };
 
   container.appendChild(player);
-  player.load("assets/dra_spl_spr_allstarskatepark.swf");
+  player.load("assets/doom-1.swf");
 });
+
 
 
 
